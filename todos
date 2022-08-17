@@ -1,0 +1,4 @@
+Add a terminal mode, API:
+    1. https://github.com/DeepLcom/deepl-python
+    2. https://www.youtube.com/watch?v=6g0N9G_F-sw
+Sometimes, I am traslating some sentences but as you know, duden or wiki doesn't work with sentences, so make a function to take only the word. 
